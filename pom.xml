@@ -29,7 +29,7 @@
   		<artifactId>tomcat7-maven-plugin</artifactId>
   		<version>2.0</version>
   		<configuration>
-    			<url>http://3.236.193.36:8080/manager/text</url>
+    			<url>http://18.213.247.68:8080/manager/text</url>
 			<server>qatomcat</server>
     			<path>/WebAppCal</path>
 			<username>admin</username>
